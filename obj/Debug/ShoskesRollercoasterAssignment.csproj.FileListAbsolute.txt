@@ -1,0 +1,6 @@
+c:\users\wecancodeit\documents\visual studio 2015\Projects\ShoskesRollercoasterAssignment\ShoskesRollercoasterAssignment\bin\Debug\ShoskesRollercoasterAssignment.exe.config
+C:\Users\WeCanCodeIT\Documents\Visual Studio 2015\Projects\ShoskesRollercoasterAssignment\ShoskesRollercoasterAssignment\bin\Debug\ShoskesRollercoasterAssignment.exe
+C:\Users\WeCanCodeIT\Documents\Visual Studio 2015\Projects\ShoskesRollercoasterAssignment\ShoskesRollercoasterAssignment\bin\Debug\ShoskesRollercoasterAssignment.pdb
+C:\Users\WeCanCodeIT\Documents\Visual Studio 2015\Projects\ShoskesRollercoasterAssignment\ShoskesRollercoasterAssignment\obj\Debug\ShoskesRollercoasterAssignment.csprojResolveAssemblyReference.cache
+C:\Users\WeCanCodeIT\Documents\Visual Studio 2015\Projects\ShoskesRollercoasterAssignment\ShoskesRollercoasterAssignment\obj\Debug\ShoskesRollercoasterAssignment.exe
+C:\Users\WeCanCodeIT\Documents\Visual Studio 2015\Projects\ShoskesRollercoasterAssignment\ShoskesRollercoasterAssignment\obj\Debug\ShoskesRollercoasterAssignment.pdb
